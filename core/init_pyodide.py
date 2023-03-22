@@ -3,7 +3,9 @@ from core.text import load_chapters
 
 
 def init(lang):
-    if lang and lang != "en":
-        t.set_language(lang)
+    lang = "fr"
+    t.set_language(lang)
+    # if lang and lang != "en":
+    #     t.set_language(lang)
 
     list(load_chapters())

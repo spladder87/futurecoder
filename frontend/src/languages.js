@@ -5,14 +5,14 @@ const languages = [
     url: 'https://futurecoder.io/',
     visible: true,
     firebaseConfig: {
-      apiKey: "AIzaSyAZmDPaMC92X9YFbS-Mt0p-dKHIg4w48Ow",
-      authDomain: "futurecoder-io.firebaseapp.com",
-      databaseURL: "https://futurecoder-io-default-rtdb.firebaseio.com",
-      projectId: "futurecoder-io",
-      storageBucket: "futurecoder-io.appspot.com",
-      messagingSenderId: "361930705093",
-      appId: "1:361930705093:web:dda41fee927c949daf88ac",
-      measurementId: "G-ZKCE9KY52F",
+      apiKey: "AIzaSyBAC0zYqkdW6hJKD_RyTzBtIgndxyraW6o",
+      authDomain: "futurecoder-fr.firebaseapp.com",
+      databaseURL: "https://futurecoder-fr-default-rtdb.europe-west1.firebasedatabase.app",
+      projectId: "futurecoder-fr",
+      storageBucket: "futurecoder-fr.appspot.com",
+      messagingSenderId: "453289812685",
+      appId: "1:453289812685:web:1b390689ec643db8533f84",
+      measurementId: "G-E3E2910NY5"
     },
   },
   {
